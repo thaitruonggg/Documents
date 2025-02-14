@@ -11,4 +11,4 @@
 ## Documents related to Lane Detection
 | Title | Date | Venue | Task | Resource | Model |
 | --- | --- | --- | --- | --- | --- |
-
+| [End-to-end Lane Shape Prediction with Transformers](https://paperswithcode.com/paper/end-to-end-lane-shape-prediction-with) | 2020 | Arxiv | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/liuruijin17/LSTR) | [Model](models/LSTR.png) |
