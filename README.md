@@ -1,4 +1,4 @@
-## Documents related to Cross-attentions
+## Cross-attentions
 | Title | Date | Venue | Task | Resource | Model |
 | --- | --- | --- | --- | --- | --- |
 | [Transformer in Transformer](https://paperswithcode.com/paper/transformer-in-transformer) | 2021 | NeurIPS | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/huawei-noah/Efficient-AI-Backbones/tree/master/tnt_pytorch) | [Model](models/TNT.png) |
@@ -8,7 +8,7 @@
 | [MCANet: Medical Image Segmentation with Multi-Scale Cross-Axis Attention](https://paperswithcode.com/paper/mcanet-medical-image-segmentation-with-multi) | 2023 | Arxiv | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/haoshao-nku/medical_seg) | [Model](models/MCANet.png) |
 | [Optimization-Inspired Cross-Attention Transformer for Compressive Sensing](https://paperswithcode.com/paper/optimization-inspired-cross-attention) | 2023 | CVPR | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/songjiechong/octuf) | [Model](models/OCT.png) |
 
-## Documents related to Lane Detection
+## Lane Detection
 | Title | Date | Venue | Task | Resource | Model |
 | --- | --- | --- | --- | --- | --- |
 | [End-to-end Lane Shape Prediction with Transformers](https://paperswithcode.com/paper/end-to-end-lane-shape-prediction-with) | 2020 | Arxiv | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/liuruijin17/LSTR) | [Model](models/LSTR.png) |
