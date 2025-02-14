@@ -1,4 +1,4 @@
-## Object Classification
+## Documents
 | Title | Date | Venue | Task | Resource | Model |
 | --- | --- | --- | --- | --- | --- |
 | [Transformer in Transformer](https://paperswithcode.com/paper/transformer-in-transformer) | 2021 | NeurIPS | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/huawei-noah/Efficient-AI-Backbones/tree/master/tnt_pytorch) | [Model](models/TNT.png) |
