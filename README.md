@@ -12,3 +12,7 @@
 | Title | Date | Venue | Task | Resource | Model |
 | --- | --- | --- | --- | --- | --- |
 | [End-to-end Lane Shape Prediction with Transformers](https://paperswithcode.com/paper/end-to-end-lane-shape-prediction-with) | 2020 | Arxiv | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/liuruijin17/LSTR) | [Model](models/LSTR.png) |
+| [LaneTCA: Enhancing Video Lane Detection with Temporal Context Aggregation](https://paperswithcode.com/paper/lanetca-enhancing-video-lane-detection-with) | 2024 | Arxiv | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/liuruijin17/LSTR) | [Model](models/LaneTCA.png) |
+| [Flexible 3D Lane Detection by Hierarchical Shape MatchingFlexible 3D Lane Detection by Hierarchical Shape Matching](https://paperswithcode.com/paper/flexible-3d-lane-detection-by-hierarchical) | 2024 | Arxiv | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/liuruijin17/LSTR) | [Model](models/Flex3D.png) |
+| [Enhancing 3D Lane Detection and Topology Reasoning with 2D Lane Priors](https://paperswithcode.com/paper/enhancing-3d-lane-detection-and-topology) | 2024 | Arxiv | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/liuruijin17/LSTR) | [Model](models/Topo2D.png) |
+| [Enhancing 3D Lane Detection and Topology Reasoning with 2D Lane Priors](https://paperswithcode.com/paper/enhancing-3d-lane-detection-and-topology) | 2024 | Arxiv | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/liuruijin17/LSTR) | [Model](models/Topo2D.png) |
