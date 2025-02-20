@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3c476e36-948f-48db-af40-9bbf7704b5d6)## Cross-attentions
+## Cross-attentions
 | Title | Date | Venue | Task | Resource | Model |
 | --- | --- | --- | --- | --- | --- |
 | [Transformer in Transformer](https://paperswithcode.com/paper/transformer-in-transformer) | 2021 | NeurIPS | ![](./assets/video.svg) | [![](./assets/code.svg)](https://github.com/huawei-noah/Efficient-AI-Backbones/tree/master/tnt_pytorch) | [Model](models/TNT.png) |
